@@ -1,0 +1,4 @@
+{
+    "testRepo": "routing-people-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
